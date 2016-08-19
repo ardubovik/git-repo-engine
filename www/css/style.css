@@ -1,0 +1,43 @@
+.bcol {
+    background: url("../i/space.png");
+    margin: 0% 10%;
+    padding: 0% 5%;
+    height: 100%;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.col {
+    color: white;
+}
+.col a {
+    color: dodgerblue;
+}
+
+.header {
+    background: url("../i/newsea.png") no-repeat;
+    /*margin: 0% 10%;*/
+    padding: 0% 5%;
+    height: 150px;
+}
+
+.logo {
+    font-family: "Times New Roman", serif, Verdana;
+    font-size: 40pt;
+    margin: 0;
+    padding: 15px;
+    color: indigo;
+    text-align: center;
+}
+ul {
+    margin: 0%;
+    padding: 1%;
+}
+
+form {
+    text-align: right;
+}
